@@ -8,7 +8,8 @@ tanto como sus respectivos largos
 */
 
 -- Seleccionar las columnas de la base de datos
-SELECT CITY
+SELECT COUNT(MIN(CITY)), CHAR_LENGTH(CITY)
+SELECT COUNT(MAX(CITY)), CHAR_LENGTH(CITY)
 -- Ubicar la columna que se queire consultar
 FROM STATION
--- 
+-- Entregar condiciones de la salida de la consulta 
