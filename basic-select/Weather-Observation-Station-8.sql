@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -- Weather Observation Station 8.sql--
 
 /* 
@@ -13,4 +14,5 @@ SELECT DISTINCT CITY
 -- seleccionar la tabla
 FROM STATION
 -- entregar las condiciones de la solicitud
-WHERE CITY RLIKE '^[AEIOU].*[AEIOU]$';
+WHERE CITY RLIKE '^[aeiou].*[aeiou]$';
+

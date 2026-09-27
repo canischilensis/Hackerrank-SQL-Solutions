@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -- Weather Observation Station 6 --
 
 /* 
@@ -17,3 +18,4 @@ SELECT DISTINCT CITY
 FROM STATION
 -- Entregar condicion con RLIKE 
 WHERE CITY RLIKE '^[AEIOU]';
+
