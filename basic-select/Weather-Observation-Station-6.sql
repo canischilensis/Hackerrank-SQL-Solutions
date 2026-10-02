@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 -- Weather Observation Station 6 --
 
 /* 
